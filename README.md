@@ -2,6 +2,7 @@
 Buildar um kernel do linux
 Itens necessários para build - Máquina virtual com sistema linux.
 ISO pode ser pega aqui - https://ubuntu.com/download/desktop ou com link direto - https://ubuntu.com/download/desktop/thank-you?version=22.04&architecture=amd64
+Recomendado ao menos uns 60Gb para a VM
 
 Sites utilizados:
 
